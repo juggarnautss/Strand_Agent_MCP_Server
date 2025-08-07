@@ -1,0 +1,13 @@
+{
+  "2507.14912v1": {
+    "title": "Redefining Elderly Care with Agentic AI: Challenges and Opportunities",
+    "summary": "The global ageing population necessitates new and emerging strategies for\ncaring for older adults. In this article, we explore the potential for\ntransformation in elderly care through Agentic Artificial Intelligence (AI),\npowered by Large Language Models (LLMs). We discuss the proactive and\nautonomous decision-making facilitated by Agentic AI in elderly care.\nPersonalized tracking of health, cognitive care, and environmental management,\nall aimed at enhancing independence and high-level living for older adults,\nrepresents important areas of application. With a potential for significant\ntransformation of elderly care, Agentic AI also raises profound concerns about\ndata privacy and security, decision independence, and access. We share key\ninsights to emphasize the need for ethical safeguards, privacy protections, and\ntransparent decision-making. Our goal in this article is to provide a balanced\ndiscussion of both the potential and the challenges associated with Agentic AI,\nand to provide insights into its responsible use in elderly care, to bring\nAgentic AI into harmony with the requirements and vulnerabilities specific to\nthe elderly. Finally, we identify the priorities for the academic research\ncommunities, to achieve human-centered advancements and integration of Agentic\nAI in elderly care. To the best of our knowledge, this is no existing study\nthat reviews the role of Agentic AI in elderly care. Hence, we address the\nliterature gap by analyzing the unique capabilities, applications, and\nlimitations of LLM-based Agentic AI in elderly care. We also provide a\ncompanion interactive dashboard at https://hazratali.github.io/agenticai/.",
+    "authors": [
+      "Ruhul Amin Khalil",
+      "Kashif Ahmad",
+      "Hazrat Ali"
+    ],
+    "published": "2025-07-20T10:53:01+00:00",
+    "pdf_url": "http://arxiv.org/pdf/2507.14912v1"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "2507.14912v1": {
+    "title": "Redefining Elderly Care with Agentic AI: Challenges and Opportunities",
+    "summary": "The global ageing population necessitates new and emerging strategies for\ncaring for older adults. In this article, we explore the potential for\ntransformation in elderly care through Agentic Artificial Intelligence (AI),\npowered by Large Language Models (LLMs). We discuss the proactive and\nautonomous decision-making facilitated by Agentic AI in elderly care.\nPersonalized tracking of health, cognitive care, and environmental management,\nall aimed at enhancing independence and high-level living for older adults,\nrepresents important areas of application. With a potential for significant\ntransformation of elderly care, Agentic AI also raises profound concerns about\ndata privacy and security, decision independence, and access. We share key\ninsights to emphasize the need for ethical safeguards, privacy protections, and\ntransparent decision-making. Our goal in this article is to provide a balanced\ndiscussion of both the potential and the challenges associated with Agentic AI,\nand to provide insights into its responsible use in elderly care, to bring\nAgentic AI into harmony with the requirements and vulnerabilities specific to\nthe elderly. Finally, we identify the priorities for the academic research\ncommunities, to achieve human-centered advancements and integration of Agentic\nAI in elderly care. To the best of our knowledge, this is no existing study\nthat reviews the role of Agentic AI in elderly care. Hence, we address the\nliterature gap by analyzing the unique capabilities, applications, and\nlimitations of LLM-based Agentic AI in elderly care. We also provide a\ncompanion interactive dashboard at https://hazratali.github.io/agenticai/.",
+    "authors": [
+      "Ruhul Amin Khalil",
+      "Kashif Ahmad",
+      "Hazrat Ali"
+    ],
+    "published": "2025-07-20T10:53:01+00:00",
+    "pdf_url": "http://arxiv.org/pdf/2507.14912v1"
+  },
+  "cond-mat/0512434v2": {
+    "title": "This paper as been withdrawn",
+    "summary": "This paper as been withdrawn. This paper as been withdrawn. This paper as\nbeen withdrawn. This paper as been withdrawn. This paper as been withdrawn.\nThis paper as been withdrawn.",
+    "authors": [
+      "R. K. Zheng"
+    ],
+    "published": "2005-12-19T05:43:58+00:00",
+    "pdf_url": "http://arxiv.org/pdf/cond-mat/0512434v2"
+  },
+  "cond-mat/0309395v2": {
+    "title": "This paper has been withdrawn",
+    "summary": "This paper has been withdrawn",
+    "authors": [
+      "This paper has been withdrawn"
+    ],
+    "published": "2003-09-17T01:28:07+00:00",
+    "pdf_url": "http://arxiv.org/pdf/cond-mat/0309395v2"
+  },
+  "gr-qc/0504039v1": {
+    "title": "Rebuttal to a Paper on Wormholes",
+    "summary": "In a recent paper on wormholes (gr-qc/0503097), the author of that paper\ndemonstrated that he didn't know what he was talking about. In this paper I\ncorrect the author's naive erroneous misconceptions.",
+    "authors": [
+      "Leonard Susskind"
+    ],
+    "published": "2005-04-08T19:08:20+00:00",
+    "pdf_url": "http://arxiv.org/pdf/gr-qc/0504039v1"
+  },
+  "2311.06785v1": {
+    "title": "Depth and Breadth of Research Area Coverage and Its Impact on Publication Citation: An Analysis of Bibliometric Papers",
+    "summary": "Many other factors affecting citation of publications, except for research\narea coverage, have been studied. This study aims to investigate impact of\nresearch area coverage. Bibliometric papers and their related papers (referred\npapers, citing papers and first author's papers) were screened and matched by\nPython program. Papers' research areas were classified according to Web of\nScience. Bibliometric parameters of the most cited 5% and the least cited 5%\npapers were compared. Firstly, coverage of related papers' research areas\nimpacts the citation of their original papers. The impact of references and\nciting papers are positive and negative, separately, while the first author's\npapers have no influence. Secondly, high-influence papers tend to cite\nreferences from a wider area and are cited by followers from a wider area.\nAdditionally, the pattern of knowledge flow differs significantly between high-\nand low-influence papers. Low-influence papers narrow knowledge flow, whereas\nhigh-influence papers broaden it. This study has shown that both depth and\nbreadth of research area coverage can influence citations. It is recommended\nthat authors should extensively cite high-influence publications, both within\nand beyond their own area.",
+    "authors": [
+      "Zhuoran Lin",
+      "Yun Wang",
+      "Hongjun Li"
+    ],
+    "published": "2023-11-12T09:20:52+00:00",
+    "pdf_url": "http://arxiv.org/pdf/2311.06785v1"
+  }
+}
