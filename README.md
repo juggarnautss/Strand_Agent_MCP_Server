@@ -1,10 +1,10 @@
-# MCP Research Server
+# AWS Strand Agent integration with MCP Research Server
 
 ## Overview
 
 This project demonstrates the power of **AWS strands agents** and how quickly you can build intelligent, context-aware applications. AWS provides a robust foundation for creating agents that can understand, reason, and act on complex data - and with **Model Context Protocol (MCP)** integration, you can extend these capabilities seamlessly.
 
-## Why AWS Agents?
+## Why AWS Strand Agents?
 
 - **Model Driven Orchestration**: Strands leverages model reasoning to plan, orchestrate tasks, and reflect on goals
 - **Model and Provider Agnostic**: Work with any LLM provider - Amazon Bedrock, OpenAI, Anthropic, local models. Switch providers without changing your code.
