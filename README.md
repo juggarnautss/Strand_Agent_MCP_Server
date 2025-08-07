@@ -1,4 +1,4 @@
-# MCP Research Server
+# AWS Stand Agents integration with MCP Research Server
 
 ## Overview
 
